@@ -1,0 +1,13 @@
+body {
+   background-color: yellow;
+ }
+ #result {
+   color: white;
+   display: flex;
+   justify-content: center;
+ }
+ #instruction {
+    color: red;
+    border: 4;
+
+ }
